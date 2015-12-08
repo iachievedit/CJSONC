@@ -1,4 +1,4 @@
-module json-c [system] {
+module CJSONC [system] {
   header "/usr/include/json-c/json.h"
   link "json-c"
   export *
